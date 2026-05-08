@@ -12,7 +12,7 @@
 - 📡 También curso formación complementaria en **Ingeniería en Redes y Telecomunicaciones**.  
 - 💻 Interés en desarrollo web y soluciones de software
 - 🛠️ Conocimientos en soporte técnico, redes y bases de datos
-- 📚 En aprendizaje constante de tecnologías frontend, backend y herramientas de desarrollo
+- 📚 Aprendizaje constante en tecnologías frontend, backend y herramientas de desarrollo
 - 🌎 Santa Cruz, Bolivia
 
 ---
